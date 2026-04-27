@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>FullScreen</key>
+            <true/>
+            <key>IsRemovable</key>
+            <true/>
+            <key>Label</key>
+            <string>PROXY DUY</string>
+            <key>PayloadDisplayName</key>
+            <string>Web Clip</string>
+            <key>PayloadIdentifier</key>
+            <string>com.mduy.webclip.proxy</string>
+            <key>PayloadType</key>
+            <string>com.apple.webClip.managed</string>
+            <key>PayloadUUID</key>
+            <string>E7A8B9C0-D1E2-43B4-A5F6-B7C8D9E0F1A2</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>URL</key>
+            <string>https://mduy913.github.io/Proxymduyf/</string>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>🚀 PROXY MDUY CONFIG</string>
+    <key>PayloadIdentifier</key>
+    <string>com.mduy.profile.config</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>F1E2D3C4-B5A6-47B8-9C0D-E1F2A3B4C5D6</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
